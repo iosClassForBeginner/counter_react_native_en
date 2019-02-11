@@ -15,7 +15,7 @@ Learn how to use [state](https://facebook.github.io/react-native/docs/state) by 
 	- [Layout with Flexbox](https://facebook.github.io/react-native/docs/flexbox)
 		
 
-* UI Component
+* UI Components
 	- [View](https://facebook.github.io/react-native/docs/view)
 	- [Text](https://facebook.github.io/react-native/docs/text)
 	- [ImageBackground](https://facebook.github.io/react-native/docs/imagebackground)
@@ -40,7 +40,7 @@ Learn how to use [state](https://facebook.github.io/react-native/docs/state) by 
 ## 2, Assets
 
 * Please download background image from [here](https://pixabay.com/en/fuzzy-background-gradient-1800136/).
-* Create ***assets*** folder in the project. Set the image under assets folder.
+* Set the image under ***assets*** folder.
 
 ## 3, Run on iOS simulator
 
