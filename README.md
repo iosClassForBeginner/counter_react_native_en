@@ -53,6 +53,8 @@ Learn how to use [state](https://facebook.github.io/react-native/docs/state) by 
 
 ## 4, Edit App.js
 
+★ It's preferable to write following code yourself. It will help you to understand code more.
+
 ```Javascript
 import React from 'react';
 import { StyleSheet, Text, View, ImageBackground, TouchableOpacity } from 'react-native';
