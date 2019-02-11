@@ -74,14 +74,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: 'rgba(255, 255, 255, 0.4)',
-    margin: 20,
+    marginVertical: 15,
+    marginHorizontal: 20,
     borderRadius: 60,
-  },
-  titleText: {
-    color: 'white',
-    fontSize: 20,
-    marginBottom: 20,
-    fontWeight: 'bold',
   },
   title: {
     color: 'white',
