@@ -1,12 +1,25 @@
 # Let's make app in an hour
 
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/counter_react_native_en/blob/master/assets/steps/demo.gif" width="50%" height="50%"/></div>  
+  
+* expo: 32.0.0 / React Native: 0.57
 
 # What you learn from the tutorial
 
-Learn how to use [state](https://facebook.github.io/react-native/docs/state) by creating a simple counter app.
+Learn how to use [state](https://facebook.github.io/react-native/docs/state) by creating a simple counter app. This project also covers the following items. Please read it if you are not familiar with them.
 
-* expo: 32.0.0 / React Native: 0.57
+* Data Control
+	- [State](https://facebook.github.io/react-native/docs/state)
+		
+* Style
+	- [Layout with Flexbox](https://facebook.github.io/react-native/docs/flexbox)
+		
+
+* UI Component
+	- [View](https://facebook.github.io/react-native/docs/view)
+	- [Text](https://facebook.github.io/react-native/docs/text)
+	- [ImageBackground](https://facebook.github.io/react-native/docs/imagebackground)
+	- [TouchableOpacity](https://facebook.github.io/react-native/docs/touchableopacity)
 
 # Setup dev environment
 
@@ -39,19 +52,6 @@ Learn how to use [state](https://facebook.github.io/react-native/docs/state) by 
 <img src ="https://github.com/iosClassForBeginner/counter_react_native_en/blob/master/assets/steps/3.open-ios-simulator.png" />
 
 ## 4, Edit App.js
-
-* Data Control
-	- [State](https://facebook.github.io/react-native/docs/state)
-		
-* Style
-	- [Layout with Flexbox](https://facebook.github.io/react-native/docs/flexbox)
-		
-
-* UI Component
-	- [View](https://facebook.github.io/react-native/docs/view)
-	- [Text](https://facebook.github.io/react-native/docs/text)
-	- [ImageBackground](https://facebook.github.io/react-native/docs/imagebackground)
-	- [TouchableOpacity](https://facebook.github.io/react-native/docs/touchableopacity)
 
 ```Javascript
 import React from 'react';
